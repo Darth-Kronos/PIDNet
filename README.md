@@ -4,7 +4,7 @@ In this repo we use Torch-Tensorrt to convert PIDNet-S and PIDNet-M models to Te
 
 ## Usage
 ### 0. Setup
-* Clone the official PIDNet(https://github.com/XuJiacong/PIDNet/tree/main) repository and download the required model weights.
+* Clone the official [PIDNet](https://github.com/XuJiacong/PIDNet/tree/main) repository and download the required model weights.
 
 ### 1. Export the models to tensorrt
 ````bash
